@@ -1,12 +1,12 @@
 import video from '../../assets/video.mp4'
-import aeroplane from '../../assets/takeOff.png'
+import aeroplane from '../../assets/plane.png'
 
 const Home = () => {
     return (
         <div className="home flex container">
 
             <div className="mainText">
-                <h1>Create Ever-lasting Memories With Us </h1>
+                <h1>Find the Price that is right for you, and travel away! </h1>
             </div>
 
             <div className="homeImages flex">

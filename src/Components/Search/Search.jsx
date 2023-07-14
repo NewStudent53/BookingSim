@@ -27,7 +27,7 @@ const Search = () => {
                         </div>
                         <div className='texts'>
                             <h4>Travelers</h4>
-                            <input type="text" placeholder='Add guests' />
+                            <input type="text" placeholder='Number of passengers?' />
                         </div>
                     </div>
 
@@ -37,7 +37,7 @@ const Search = () => {
                         </div>
                         <div className='texts'>
                             <h4>Check Out</h4>
-                            <input type="text" placeholder='Add date' />
+                            <input type="text" placeholder='Please add date' />
                         </div>
                     </div>
 

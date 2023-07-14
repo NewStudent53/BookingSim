@@ -6,7 +6,7 @@ const Info = () => {
         <div className="info section">
             <div className="infoContainer container">
                 <div className="titleDiv flex">
-                    <h2>Travel to make memories all around the world</h2>
+                    <h2>Travel the world, and save some money while you are at it</h2>
                     <button className="btn">
                         View All
                     </button>

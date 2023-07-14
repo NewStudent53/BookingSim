@@ -70,11 +70,11 @@ const Navbar = () => {
                 </button>
 
                 <div onClick={showNavBar} className='toggleIcon'>
-                    <CgMenuGridO className='icon'/>
+                    <CgMenuGridO className='icon'/>close
                 </div>
 
                 <div onClick={removeNavBar} className='toggleIcon'>
-                    <CgMenuGridO className='icon'/>
+                    <CgMenuGridO className='icon'/>open
                 </div>
 
             </div>
